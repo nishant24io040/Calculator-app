@@ -1,0 +1,4 @@
+com/example/firstone/BuildConfig.java
+ com.example.firstone.BuildConfig
+com/example/firstone/MainActivity.java
+ com.example.firstone.MainActivity
